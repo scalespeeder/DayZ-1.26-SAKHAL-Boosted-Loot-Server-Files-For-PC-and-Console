@@ -2628,7 +2628,7 @@
 		<attachments chance="1.00">
 			<item name="AK74_Hndgrd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
@@ -2641,27 +2641,12 @@
 	</type>
 		<type name="AK74_Black">
 		<attachments chance="1.00">
-			<item name="AK_FoldingBttstck_Black" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck_Black" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="WoodBttstck_Black" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="WoodBttstck_Black" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="AK_RailHndgrd_Black" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="AK_PlasticHndgrd" chance="1.00" />
+			<item name="AK_FoldingBttstck_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AK74_Hndgrd_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
@@ -2674,27 +2659,15 @@
 			</type>
 		<type name="AK74_Green">
 		<attachments chance="1.00">
-			<item name="AK_FoldingBttstck_Green" chance="0.10" />
+			<item name="AK_PlasticBttstck_Green" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck_Green" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_WoodBttstck_Camo" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK74_WoodBttstck_Camo" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
 			<item name="AK_RailHndgrd_Green" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AK74_Hndgrd_Camo" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
@@ -2718,15 +2691,6 @@
 	</type>
 	<type name="AKS74U_Black">
 		<attachments chance="1.00">
-			<item name="AK_FoldingBttstck_Black" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck_Black" chance="0.03" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_WoodBttstck_Black" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="AKS74U_Bttstck_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -2738,16 +2702,7 @@
 	</type>
 	<type name="AKS74U_Green">
 		<attachments chance="1.00">
-			<item name="AK_FoldingBttstck_Green" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck_Green" chance="0.03" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_WoodBttstck_Camo" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AKS74U_Bttstck_Green" chance="1.00" />
+			<item name="AK_PlasticBttstck_Green" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AK_Suppressor" chance="1.00" />
@@ -2763,7 +2718,7 @@
 		<attachments chance="1.00">
 			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
@@ -2775,22 +2730,13 @@
 		</attachments>
 	</type>
 	<type name="AK101_Black">
-		<attachments chance="0.30">
-			<item name="AK_FoldingBttstck" chance="0.30" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="AK_WoodBttstck_Black" chance="0.30" />
-		</attachments>
 		<attachments chance="1.00">
 			<item name="AK_PlasticBttstck_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
-			<item name="AK_WoodHndgrd_Black" chance="0.30" />
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AK_PlasticHndgrd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
@@ -2802,22 +2748,13 @@
 		</attachments>
 	</type>
 	<type name="AK101_Green">
-		<attachments chance="0.30">
-			<item name="AK_FoldingBttstck" chance="0.30" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="AK_WoodBttstck_Camo" chance="0.30" />
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck_Camo" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck_Green" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="WoodHndgrd_Camo" chance="0.30" />
+			<item name="WoodHndgrd_Camo" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AK_PlasticHndgrd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
