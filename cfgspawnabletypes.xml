@@ -6,6 +6,36 @@
 	
 	<!-- new 1.26 additions -->
 	
+	<type name="ScientificBriefcase">
+		<damage min="0.0" max="0.0" />
+		<cargo chance="1.0">
+			<item name="FilteringBottle" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="FilteringBottle" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Iceaxe" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="TetracyclineAntibiotics" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="ChelatingTablets" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="GPSReceiver" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="GlowPlug" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Battery9V" />
+		</cargo>
+		<hoarder />
+	</type>
+	
+	
 	
 	<type name="Boat_01_Black">
 	<damage min="0.1" max="0.1" />
